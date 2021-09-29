@@ -3,3 +3,9 @@ class ApplicationController < ActionController::Base
 end
 #def search
 end
+
+
+def index
+end 
+def update
+end 
